@@ -1,4 +1,4 @@
-## Sn1perSecurity
+## Sn1perMLSSecurity
 ### Automate the most powerful tools
 
 Security tools are expensive and time-consuming, but with Sn1per, you can save time by automating the execution of these open source and commercial tools to discover vulnerabilities across your entire attack surface.
